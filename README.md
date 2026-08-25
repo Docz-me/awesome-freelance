@@ -46,6 +46,7 @@ Working for yourself is hard enough. This list collects the genuinely useful —
 - [FreshBooks](https://www.freshbooks.com) - Cloud accounting with strong invoicing.
 - [Invoice Ninja](https://www.invoiceninja.com) - Open-source invoicing platform.
 - [Wave](https://www.waveapps.com) - Free invoicing and accounting.
+- [Toolkit Labs Invoice](https://ytinumoc.github.io/toolkitlabs-invoice/) - Browser invoice and receipt generator; print or save as PDF locally with no account. [Commercial white-label pack](https://buy.stripe.com/bJeeVea187TScZwb095Ne0k?client_reference_id=awesome-freelance-v1) (EUR 249 one-time) adds your logo, colors, six templates, and unlimited batch CLI.
 
 ### Payment Processing
 
