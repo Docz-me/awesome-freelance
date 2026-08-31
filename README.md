@@ -18,6 +18,7 @@ Working for yourself is hard enough. This list collects the genuinely useful —
   - [Job Boards](#job-boards)
   - [Marketplaces](#marketplaces)
   - [Direct Outreach](#direct-outreach)
+- [Offers](#offers)
 - [Productivity](#productivity)
 - [Learning](#learning)
   - [Books](#books)
@@ -108,6 +109,10 @@ Working for yourself is hard enough. This list collects the genuinely useful —
 - [Apollo](https://www.apollo.io) - Lead database plus outreach.
 - [Hunter](https://hunter.io) - Find verified email addresses.
 - [Lemlist](https://www.lemlist.com) - Cold email automation with personalization.
+
+## Offers
+
+- [Ibis](https://cartonpliant.github.io/ibis/) - Compose a one-page offer in the browser (name, price, three bullets, one proof). Free with watermark; Pro 9€ removes it, plus clean print, Markdown, and five layouts.
 
 ## Productivity
 
