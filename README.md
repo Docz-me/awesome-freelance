@@ -43,6 +43,7 @@ Working for yourself is hard enough. This list collects the genuinely useful —
 
 - [Docz.me](https://docz.me) - All-in-one for freelancers: contracts, invoices, time tracking, and auto-chase.
 - [Bonsai](https://www.hellobonsai.com) - Contracts, invoices, and proposals in one app.
+- [Client Close Kit](https://github.com/darweesh128-cmd/client-close-kit) - Open-source bilingual WhatsApp close captions with printable HTML invoice and quote templates for freelancers.
 - [FreshBooks](https://www.freshbooks.com) - Cloud accounting with strong invoicing.
 - [Invoice Ninja](https://www.invoiceninja.com) - Open-source invoicing platform.
 - [Wave](https://www.waveapps.com) - Free invoicing and accounting.
