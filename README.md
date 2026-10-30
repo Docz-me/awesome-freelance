@@ -79,6 +79,7 @@ Working for yourself is hard enough. This list collects the genuinely useful —
 - [ClickUp](https://clickup.com) - Project management with invoicing add-ons.
 - [Linear](https://linear.app) - Issue tracking that doesn't suck.
 - [Notion](https://www.notion.so) - All-purpose workspace; client portals via shared pages.
+- [ScopeLine](https://scopeline-xi.vercel.app/) - Track scope creep against your original quote and send a priced reply before doing extra work.
 - [Trello](https://trello.com) - Visual kanban for solo workflows.
 
 ## Accounting & Taxes
@@ -108,6 +109,7 @@ Working for yourself is hard enough. This list collects the genuinely useful —
 - [Apollo](https://www.apollo.io) - Lead database plus outreach.
 - [Hunter](https://hunter.io) - Find verified email addresses.
 - [Lemlist](https://www.lemlist.com) - Cold email automation with personalization.
+- [SteadyPipe](https://steadypipe.vercel.app/) - Weekly pipeline habit for solo freelancers: outreach, follow-ups and retainer prompts. Free tier.
 
 ## Productivity
 
