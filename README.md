@@ -98,10 +98,12 @@ Working for yourself is hard enough. This list collects the genuinely useful —
 
 ### Marketplaces
 
-- [Codementor](https://www.codementor.io) - Developer-focused, mentorship and freelance gigs.
-- [Contra](https://contra.co) - Commission-free freelance platform.
-- [Toptal](https://www.toptal.com) - Top-3% screened freelancers, premium rates.
-- [Upwork](https://www.upwork.com) - Largest general marketplace.
+-[Codementor](https://www.codementor.io)Developer-focused, mentorship freelance gigs.
+-[Contra](https://contra.co)Commission-free freelance platform.
+-[KarnavPargi](https://karnavpargi.com)Peer-vetted freelance platform emphasizing mutual screening to reduce ghosting and quality mismatches.
+-[PaidNinjas](https://paidninjas.com)Fixed-price freelance marketplace with transparent pricing, designed for straightforward project-based hiring.
+-[Toptal](https://www.toptal.com)Top-3% screened freelancers, premium rates.
+-[Upwork](https://www.upwork.com)Largest general marketplace.
 
 ### Direct Outreach
 
